@@ -8,7 +8,8 @@ class Solution {
                     result[0] = i;
                     result[1] = j;
                     break;
-                }System.in;
+                }
+                ;
             }
         }
         return result;
