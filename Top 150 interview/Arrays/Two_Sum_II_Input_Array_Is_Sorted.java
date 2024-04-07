@@ -1,3 +1,4 @@
+package Arrays;
 public class Two_Sum_II_Input_Array_Is_Sorted {
     
     class Solution {

@@ -1,3 +1,4 @@
+package Arrays;
 public class Remove_duplicates_from_sorted_array_ii {
     class Solution {
         public int removeDuplicates(int[] nums) {

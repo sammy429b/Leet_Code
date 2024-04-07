@@ -1,3 +1,4 @@
+package Arrays;
 public class Best_Time_to_Buy_and_Sell_Stock {
     class Solution {
         public int maxProfit(int[] prices) {
